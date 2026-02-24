@@ -19,57 +19,17 @@ Sou apaixonado por tecnologia, resolução de problemas e melhoria contínua. Es
 ## 🚀 Habilidades
 
 <p align="center">
-
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" rel="nofollow">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" />
-</a>
-
-<a href="https://dotnet.microsoft.com/" rel="nofollow">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="40" height="40" alt=".NET" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
-</a>
-
-<a href="https://www.typescriptlang.org/" rel="nofollow">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />
-</a>
-
-<a href="https://nodejs.org/" rel="nofollow">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="Node.js" />
-</a>
-
-<a href="https://www.php.net/" rel="nofollow">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" />
-</a>
-
-<a href="https://www.python.org/" rel="nofollow">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" />
-</a>
-
-<a href="https://angular.io/" rel="nofollow">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="40" height="40" alt="Angular" />
-</a>
-
-<a href="https://flutter.dev/" rel="nofollow">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="40" height="40" alt="Flutter" />
-</a>
-
-<a href="https://www.postgresql.org/" rel="nofollow">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" />
-</a>
-
-<a href="https://firebase.google.com/" rel="nofollow">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40" alt="Firebase" />
-</a>
-
-<a href="https://www.figma.com/" rel="nofollow">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" />
-</a>
-
-<a href="https://www.kali.org/" rel="nofollow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Cybersecurity / Pentest" />
-</a>
-
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="42" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42"/>
 </p>
