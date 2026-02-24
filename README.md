@@ -68,8 +68,8 @@ Sou apaixonado por tecnologia, resolução de problemas e melhoria contínua. Es
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" />
 </a>
 
-<a href="https://owasp.org/" rel="nofollow">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/security-colored.svg" width="40" height="40" alt="Cybersecurity / Pentest" />
+<a href="https://www.kali.org/" rel="nofollow">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Cybersecurity / Pentest" />
 </a>
 
 </p>
