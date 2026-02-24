@@ -1,3 +1,21 @@
+# 👋 Olá, eu sou o Bruno Souza  
+
+## 💻 Desenvolvedor Full-Stack  
+
+Desenvolvedor Full-Stack com 2 anos de experiência no desenvolvimento de aplicações web e mobile. Atuo na criação, manutenção e evolução de sistemas, sempre focando em performance, escalabilidade e boas práticas de desenvolvimento.
+
+Tenho experiência com tecnologias como **C#, .NET, JavaScript, TypeScript, Angular, Flutter, Dart e SQL, PHP, CSS, HTML PROFISSIONAL, NODE.JS PROFISSIONAL, PYTHON, ENGENHARIA DE SOFTWARE, PENTESTER**, desenvolvendo soluções completas — do back-end ao front-end.
+
+Sou apaixonado por tecnologia, resolução de problemas e melhoria contínua. Estou sempre buscando evoluir minhas habilidades e aprender novas ferramentas que agreguem valor aos projetos.
+
+---
+
+🌎 **Localização:** Rio de Janeiro - Brasil  
+✉️ **Contato:** souzaboss8171@gmail.com
+🚀 **Atualmente:** Desenvolvendo projetos e aprimorando minhas habilidades Full-Stack  
+🧠 **Estudando:** Arquitetura de Software e boas práticas  
+🤝 **Aberto a:** Colaborar em projetos e novas oportunidades  
+
 ## 🚀 Habilidades
 
 <p align="center">
