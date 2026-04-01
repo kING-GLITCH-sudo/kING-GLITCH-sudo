@@ -4,7 +4,7 @@
 
 Desenvolvedor Full-Stack com 2 anos de experiência no desenvolvimento de aplicações web e mobile. Atuo na criação, manutenção e evolução de sistemas, sempre focando em performance, escalabilidade e boas práticas de desenvolvimento.
 
-Tenho experiência com tecnologias como **C#, .NET, JavaScript, TypeScript, Angular, Flutter, Dart e SQL, PHP, CSS, HTML PROFISSIONAL, NODE.JS PROFISSIONAL, PYTHON, ENGENHARIA DE SOFTWARE, PENTESTER**, desenvolvendo soluções completas — do back-end ao front-end.
+Tenho experiência com tecnologias como **C#, .NET, JavaScript, TypeScript, Angular, Flutter, Dart e SQL, PHP, CSS, HTML, NODE.JS PROFISSIONAL, PYTHON, ENGENHARIA DE SOFTWARE, PENTESTER**, desenvolvendo soluções completas — do back-end ao front-end.
 
 Sou apaixonado por tecnologia, resolução de problemas e melhoria contínua. Estou sempre buscando evoluir minhas habilidades e aprender novas ferramentas que agreguem valor aos projetos.
 
