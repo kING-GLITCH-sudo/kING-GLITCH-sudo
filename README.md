@@ -11,7 +11,7 @@ Sou apaixonado por tecnologia, resolução de problemas e melhoria contínua. Es
 ---
 
 🌎 **Localização:** Rio de Janeiro - Brasil  
-✉️ **Contato:** souzaboss8171@gmail.com
+✉️ **Contato:** kingdev72@gmail.com
 🚀 **Atualmente:** Desenvolvendo projetos e aprimorando minhas habilidades Full-Stack  
 🧠 **Estudando:** Arquitetura de Software e boas práticas  
 🤝 **Aberto a:** Colaborar em projetos e novas oportunidades  
